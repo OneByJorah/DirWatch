@@ -6,6 +6,8 @@
 [![Top Language](https://img.shields.io/github/languages/top/OneByJorah/DirWatch?style=for-the-badge&color=FFB300&labelColor=0a0a09)](https://github.com/OneByJorah/DirWatch)
 [![Stars](https://img.shields.io/github/stars/OneByJorah/DirWatch?style=for-the-badge&color=FFB300&labelColor=0a0a09)](https://github.com/OneByJorah/DirWatch/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/OneByJorah/DirWatch?style=for-the-badge&color=FFB300&labelColor=0a0a09)](https://github.com/OneByJorah/DirWatch/commits)
+
+![DirWatch AD dashboard](.github/screenshots/main.png)
 [![CI](https://img.shields.io/github/actions/workflow/status/OneByJorah/DirWatch/ci.yml?style=for-the-badge&color=FFB300&labelColor=0a0a09&label=ci)](https://github.com/OneByJorah/DirWatch/actions/workflows/ci.yml)
 
 ![DirWatch dashboard](docs/assets/screenshot.png)
